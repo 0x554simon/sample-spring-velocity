@@ -68,7 +68,7 @@
 	</dependencies>
 
 	<properties>
-		<start-class>com.xudafeng.hello.hello.Application</start-class>
+		<start-class>com.xudafeng.hello.Application</start-class>
 	</properties>
 
 	<build>
