@@ -1,10 +1,10 @@
-#Spring4 Velocity Sample
+# Spring4 Velocity Sample
 
 Spring mvc + Velocity
 
 
-```sh
-mvn tomcat:run
+``` bash
+$ mvn tomcat:run
 ```
 
 - http://localhost:8080/sample-spring-velocity/home
